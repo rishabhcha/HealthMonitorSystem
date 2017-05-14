@@ -68,7 +68,7 @@ public class MainActivity extends FragmentActivity implements GoogleMap.OnMyLoca
     private static final UUID MY_UUID = UUID.fromString("00001101-0000-1000-8000-00805F9B34FB");
 
     // MAC-address of Bluetooth module (you must edit this line)
-    private static String address = "00:21:13:00:23:D6";
+    private static String address = "00:20:13:00:24:0D";
 
     SmsManager smsManager = SmsManager.getDefault();
 
